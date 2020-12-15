@@ -88,7 +88,6 @@ button:hover{
     text-align: center;
     color: #8066FF;
     background-color: var(--primary-color);
-    position: fixed;
     width: 100%;
     bottom: 0;
     left: 0;
